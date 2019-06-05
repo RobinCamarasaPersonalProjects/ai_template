@@ -1,0 +1,7 @@
+*.pyc
+__pycache__/
+*/settings.py
+data/*
+results/*
+.idea/*
+mnist/*
